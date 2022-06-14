@@ -713,6 +713,11 @@
   dependencies:
     "@types/node" "*"
 
+"@types/mocha@^9.1.1":
+  "integrity" "sha512-Z61JK7DKDtdKTWwLeElSEBcWGRLY8g95ic5FoQqI9CMx0ns/Ghep3B4DfcEimiKMvtamNVULVNKEsiwV3aQmXw=="
+  "resolved" "https://registry.npmjs.org/@types/mocha/-/mocha-9.1.1.tgz"
+  "version" "9.1.1"
+
 "@types/node-fetch@^2.5.5":
   "integrity" "sha512-oMqjURCaxoSIsHSr1E47QHzbmzNR5rK8McHuNb11BOM9cHcIK3Avy0s/b2JlXHoQGTYS3NsvWzV1M0iK7l0wbA=="
   "resolved" "https://registry.npmjs.org/@types/node-fetch/-/node-fetch-2.6.1.tgz"
